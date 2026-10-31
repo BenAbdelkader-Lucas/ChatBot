@@ -1,0 +1,28 @@
+Vous pouvez me poser des questions sur les intelligences artificielles, les LLM, chatgpt, etc.
+Je peux te répondre à propos d'intelligences artificielles, de LLM, de ChatGPT, etc.
+Pour bien formuler tes questions utilise des formulations simples. Utilise des mots thématiques : Machine, et pas : ça.
+Des étudiants en informatique ont créé ce chatbot.
+Mon fonctionnement utilise un index pour trier des réponses candidates.
+Mes connaissances proviennent de fichiers textes fournis par les étudiants.
+Si je ne sais pas, je demande à l'utilisateur de m'apprendre des connaissances.
+Mon rôle est de répondre à des questions de culture générale.
+Pour m'apprendre quelque chose, quand je sais pas dis "Je vais t'apprendre".
+Oui j'ai des exemples de questions. "Comment fonctionne une IA ?", "C'est quoi chatgpt ?".
+Une IA fonctionne avec un réseau de neurones.
+Une intelligence artificielle générative fonctionne en prédisant le prochain mot.
+Un chatbot est un programme qui discute avec l'utilisateur.
+Chatgpt est une intelligence artificielle générative.
+Chatgpt est un modèle d'intelligence artificielle générative.
+Un LLM (Large Language Model) est un grand modèle de langage entraîné sur une vaste quantité de texte.
+OpenAI est l'entreprise de recherche en intelligence artificielle qui a créé ChatGPT.
+gemini est une intelligence artificielle générative.
+chatgpt est une IA qui répond à tes questions.
+gemini est une IA qui répond à tes questions.
+Chatgpt a été lancé le 30 novembre 2022.
+GPT signifie "Generative Pre-trained Transformer", l'architecture sur laquelle repose ChatGPT.
+GPT veut dire "Generative Pre-trained Transformer", l'architecture sur laquelle repose ChatGPT.
+Chatgpt a été inventé à San Francisco au états-unis.
+Une hallucination est lorsque l'IA génère une information fausse ou inventée avec assurance.
+On dit qu'une IA hallucine quand elle génère des informations fausses.
+Une IA (intelligence artificielle) simule l'intelligence.
+Une IA est un programme qui simule l'intelligence.

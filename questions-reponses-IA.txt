@@ -1,0 +1,31 @@
+Quelles questions puis-je te poser ? Vous pouvez me poser des questions sur les intelligences artificielles, les LLM, chatgpt, etc.
+A quelles questions peux-tu répondre ? Je peux te répondre à propos d'intelligences artificielles, de LLM, de ChatGPT, etc.
+Quelles questions te poser ? Vous pouvez me poser des questions sur les intelligences artificielles, les LLM, chatgpt, etc.
+Comment doit-je formuler mes questions ? Pour bien formuler tes questions utilise des formulations simples. Utilise des mots thématiques : Machine, et pas : ça.
+Qui t'a créé ? Des étudiants en informatique ont créé ce chatbot.
+Quel est ton fonctionnement ? Mon fonctionnement utilise un index pour trier des réponses candidates.
+D'où viennent tes connaissances ? Mes connaissances proviennent de fichiers textes fournis par les étudiants.
+Que fais-tu si tu ne sais pas ? Si je ne sais pas, je demande à l'utilisateur de m'apprendre des connaissances.
+Quel est ton rôle ? Mon rôle est de répondre à des questions de culture générale.
+Comment t'apprendre quelque chose ? Pour m'apprendre quelque chose, quand je sais pas dis "Je vais t'apprendre".
+As-tu des exemples de questions ? Oui j'ai des exemples de questions. "Comment fonctionne une IA ?", "C'est quoi chatgpt ?".
+Comment fonctionne une IA ? Une IA fonctionne avec un réseau de neurones.
+Comment fonctionne une intelligence artificielle générative ? Une intelligence artificielle générative fonctionne en prédisant le prochain mot.
+Qu'est ce qu'un chatbot ? Un chatbot est un programme qui discute avec l'utilisateur.
+C'est quoi chatgpt ? Chatgpt est une intelligence artificielle générative.
+Chatgpt c'est quoi ? Chatgpt est un modèle d'intelligence artificielle générative.
+C'est quoi un LLM ? Un LLM (Large Language Model) est un grand modèle de langage entraîné sur une vaste quantité de texte.
+C'est qui OpenAI ? OpenAI est l'entreprise de recherche en intelligence artificielle qui a créé ChatGPT.
+qu'est ce que c'est ChatGPT ? chatgpt est une IA qui répond à tes questions.
+qu'est ce que c'est gemini ? gemini est une IA qui répond à tes questions.
+Quand a été lancé chatgpt ? Chatgpt a été lancé le 30 novembre 2022.
+Que signifie GPT ? GPT signifie "Generative Pre-trained Transformer", l'architecture sur laquelle repose ChatGPT.
+Ca veux dire quoi GPT ? GPT veut dire "Generative Pre-trained Transformer", l'architecture sur laquelle repose ChatGPT.
+Où a été inventé chatgpt ? Chatgpt a été inventé à San Francisco au états-unis.
+une hallucination c'est quoi ? Une hallucination est lorsque l'intelligence artificielle génère une information fausse ou inventée avec assurance.
+Ca veut dire quoi quand une IA hallucine ? Une hallucination est lorsque l'IA génère une information fausse ou inventée avec assurance.
+Ca veut dire quoi quand une IA hallucine ? On dit qu'une IA hallucine quand elle génère des informations fausses.
+C'est quoi une IA ? Une IA (intelligence artificielle) simule l'intelligence.
+C'est quoi une IA ? Une IA est un programme qui simule l'intelligence.
+Explique moi ce qu'une IA ? Une IA (intelligence artificielle) simule l'intelligence.
+Explique moi ce qu'est une IA ? Une IA (intelligence artificielle) simule l'intelligence.
